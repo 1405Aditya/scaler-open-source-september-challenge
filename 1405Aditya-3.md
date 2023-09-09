@@ -1,2 +1,2 @@
 I'm so excited to announce that I've completed the first milestone of the Scaler Open-Source September Challenge! 🎉💯
-I feel that the challenge was extremely beneficial for me to learn GitHub,as I'm a beginner. I have learnt creating a new repository, creating a new branch, pull request, fork of any repository and also to commit and push any changes to the repository. I'm so excited to continue learning and growing as I work towards the next milestone.
+Currently I'm pursuing BE Computer.I wish to become an expert SDE.
